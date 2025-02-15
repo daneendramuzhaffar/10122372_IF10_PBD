@@ -1,4 +1,4 @@
-gmail dan password user
+email dan password user
 
 ADMIN
 admin1@gmail.com : 1234
